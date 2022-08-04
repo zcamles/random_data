@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "lacteos",
+        "id": 1,
+        "descuento": 15
+    },
+    {
+        "nombre": "colegio",
+        "id": 2,
+        "descuento": 20
+    },
+    {
+        "nombre": "aseo",
+        "id": 3,
+        "descuento": 50
+    },
+    {
+        "nombre": "frutas",
+        "id": 4,
+        "descuento": 10
+    },
+    {
+        "nombre": "verduras",
+        "id": 5,
+        "descuento": 20
+    },
+    {
+        "nombre": "carnes",
+        "id": 6,
+        "descuento": 15
+    }
+]
